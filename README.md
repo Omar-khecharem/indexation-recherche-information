@@ -1,4 +1,4 @@
-# TP1 - Indexation et Recherche d'Information
+# TP - Indexation et Recherche d'Information
 
 ## Description
 
