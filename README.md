@@ -20,7 +20,7 @@ Ce TP porte sur les fondamentaux de l'indexation et de la recherche d'informatio
 ## Utilisation
 
 ```bash
-python indexation.py
+python nom du TP.py
 ```
 
 ## Fonctionnalites
