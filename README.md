@@ -34,4 +34,4 @@ python indexation.py
 
 ## Auteur
 
-Omar - FIGL2
+Omar khecharem - FIGL2
