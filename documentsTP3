@@ -1,0 +1,25 @@
+D1	Information retrieval systems use inverted indexes for efficient search.
+D2	The vector space model represents documents and queries as vectors.
+D3	Boolean retrieval uses AND, OR, and NOT operators.
+D4	TF-IDF measures the importance of terms in documents.
+D5	Search engines rank documents according to their relevance.
+D6	BM25 is a ranking function used in information retrieval.
+D7	Neural information retrieval uses deep learning models.
+D8	Dense retrieval represents queries and documents using embeddings.
+D9	Vector databases support similarity search over embeddings.
+D10	Search engines use inverted indexes to retrieve documents efficiently.
+D11	An inverted index maps each term to the documents where it appears.
+D12	The Boolean model determines whether documents satisfy logical query conditions.
+D13	Cosine similarity compares document and query vectors in the vector space model.
+D14	Term frequency measures how often a word occurs while inverse document frequency reduces the weight of common terms.
+D15	Ranking algorithms order search results according to their estimated relevance.
+D16	BM25 considers term frequency, document length, and term rarity when scoring documents.
+D17	Text embeddings transform words, sentences, and documents into numerical representations.
+D18	Dense vector representations can find relevant documents even when they use different words from the query.
+D19	Semantic search focuses on the meaning of queries rather than exact keyword matching.
+D20	Traditional information retrieval often uses sparse representations while neural methods learn distributed representations.
+D21	Indexing is a preprocessing step that allows search systems to retrieve information without scanning every document.
+D22	A retrieval system can first generate candidate documents and then apply a ranking model.
+D23	Similarity measures are used to compare embeddings in semantic information retrieval.
+D24	Precision and recall are common evaluation measures for information retrieval systems.
+D25	Hybrid retrieval combines lexical methods such as BM25 with dense vector representations.
