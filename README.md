@@ -111,7 +111,7 @@ Le fonctionnement du moteur peut être résumé ainsi :
 ```text
 .
 ├── documents.tsv
-├── documents1.tsv
+├── documentsTP3.tsv
 ├── indexation.py
 ├── recherche.py
 ├── tp1.py
