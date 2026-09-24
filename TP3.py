@@ -4,7 +4,7 @@ import math
 
 
 
-f = open("documents1.tsv", "r", encoding="utf-8")
+f = open("documentsTP3.tsv", "r", encoding="utf-8")
 
 documents = {}
 
